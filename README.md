@@ -1,1 +1,2 @@
-# Backend_dev
+Exercise 1
+Basic Git workflow practice
