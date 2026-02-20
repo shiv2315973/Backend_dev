@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiv2315973/Backend_dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shiv2315973/Backend_dev/issues"
+  },
+  "homepage": "https://github.com/shiv2315973/Backend_dev#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
