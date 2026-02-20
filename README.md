@@ -1,2 +1,1 @@
-Exercise 1
-Basic Git workflow practice
+Exercise 2 Branching Practice
