@@ -1,0 +1,7 @@
+INFO Server started
+INFO Database connected
+WARNING Low memory
+ERROR Failed to connect to API
+INFO User login successful
+ERROR Timeout occurred
+WARNING Disk usage high
